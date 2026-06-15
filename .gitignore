@@ -1,0 +1,15 @@
+# Environment Variables (CRITICAL: Do not upload API keys)
+backend/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# Mac OS
+.DS_Store
